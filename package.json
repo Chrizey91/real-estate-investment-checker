@@ -2,6 +2,7 @@
   "name": "finance-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chrizey91.github.io/real-estate-investment-checker",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
